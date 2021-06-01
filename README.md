@@ -18,6 +18,7 @@ relationships between multiple models in a single JSON object. In order to fully
 understand `include`, however, we'll need to expand our example domain so
 that we have a few related resources to work with.
 
+
 ## Setting up Additional Related Resources To Include - Bird Sightings
 
 In the last few code-alongs, we've been playing around with a basic resource,
